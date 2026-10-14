@@ -7,7 +7,7 @@ security lab (Linux, Kali, networking) while working toward CompTIA Security+.
 
 ## Featured
 
-### [BioLab Atlas](https://github.com/NeoForm-Studio/biolab-atlas) · [live](https://biolab-atlas-deploy.vercel.app)
+### [BioLab Atlas](https://github.com/NeoForm-Studio/biolab-atlas) · [live](https://biolab.neoform.studio)
 
 Look up a bacterium or archaeon and see what public data exists for it and how much its genome resembles known
 extremophiles. A Python pipeline pulls each species from NCBI, UniProt, BacDive and Europe PMC, searches its
